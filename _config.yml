@@ -1,0 +1,7 @@
+# Site settings
+title: Puzzle Solutions
+email: ananth@puzzlehq.co
+description: Website of Puzzle Solutions
+
+# Build settings
+markdown: kramdown
